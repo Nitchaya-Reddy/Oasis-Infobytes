@@ -1,1 +1,1 @@
-#3Number Guessing in Java Using a GUI (Graphical User Interface).
+#Number Guessing in Java Using a GUI (Graphical User Interface).
